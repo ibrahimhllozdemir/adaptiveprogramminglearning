@@ -1,2 +1,3 @@
-# Adaptive Programming Learning
-This project focuses on developing an adaptive and personalized learning environment for programming education. Developed using TypeScript, this project stores data in Firebase. Artificial intelligence is actively used within this project.
+This project focuses on the development of an adaptive and personalized learning environment for programming education, designed to support learners with different skill levels, learning paces, and learning preferences. The primary goal is to enhance learning effectiveness by dynamically adjusting content, feedback, and learning paths based on individual learner behavior and performance.
+
+The application is developed using TypeScript, ensuring type safety, scalability, and maintainability across the codebase. Firebase is used as the backend infrastructure, providing real-time database services, authentication, and secure cloud-based data storage.
